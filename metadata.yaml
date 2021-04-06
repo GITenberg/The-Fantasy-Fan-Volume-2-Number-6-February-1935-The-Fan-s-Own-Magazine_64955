@@ -1,5 +1,8 @@
 _repo: The-Fantasy-Fan-Volume-2-Number-6-February-1935-The-Fan-s-Own-Magazine_64955
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64955-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '43665'
     url: http://www.gutenberg.org/2009/agents/43665
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64955#The-Fantasy-Fan-Volume-2-Number-6-February-1935-The-Fan-s-Own-Magazine
 gutenberg_issued: '2021-03-29'
 gutenberg_type: Text
 identifiers:
